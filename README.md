@@ -2,7 +2,7 @@
 
 ## **Introduction**
 
-This project documents a comprehensive penetration testing engagement performed for the fictional client, Rekall Corporation. Over the course of three days, I conducted targeted attacks on Rekall's web application, Linux servers, and Windows servers, identifying and exploiting vulnerabilities. This project showcases my proficiency in ethical hacking methodologies, vulnerability assessment, exploitation techniques, and remediation strategies.
+This project documents a comprehensive penetration testing engagement performed for the fictional client, Rekall Corporation. Over the course of three days, our team of three conducted targeted attacks on Rekall's web application, Linux servers, and Windows servers, identifying and exploiting vulnerabilities. This project showcases our proficiency in ethical hacking methodologies, vulnerability assessment, exploitation techniques, and remediation strategies.
 
 ## **Table of Contents**
 
@@ -49,6 +49,6 @@ For detailed reports and findings, please refer to the [Penetration Test Report]
 
 ## **Conclusion and Reflections**
 
-This penetration testing engagement provided valuable insights into Rekall Corporation's security posture. The exercise reinforced the importance of regular security assessments and proactive remediation efforts. It also enhanced my skills in penetration testing methodologies and tools, emphasizing the necessity for continuous learning and adaptation in the cybersecurity field. By identifying and addressing these vulnerabilities, organizations like Rekall can significantly improve their defenses against potential threats.
+This penetration testing engagement provided valuable insights into Rekall Corporation's security posture. The exercise reinforced the importance of regular security assessments and proactive remediation efforts. It also enhanced our team's skills in penetration testing methodologies and tools, emphasizing the necessity for continuous learning and adaptation in the cybersecurity field. By identifying and addressing these vulnerabilities, organizations like Rekall can significantly improve their defenses against potential threats.
 
 ---

@@ -1,5 +1,9 @@
 # **Penetration Testing Engagement for Rekall Corporation**
 
+## **Disclaimer**
+
+This project involves authorized penetration testing conducted with explicit permission from all relevant parties. Performing penetration testing or security assessments without proper authorization is illegal and unethical. This project reflects professional cybersecurity practices and adherence to legal and ethical standards.
+
 ## **Introduction**
 
 This project documents a comprehensive penetration testing engagement performed for the fictional client, Rekall Corporation. Over the course of three days, our team of three conducted targeted attacks on Rekall's web application, Linux servers, and Windows servers, identifying and exploiting vulnerabilities. This project showcases our proficiency in ethical hacking methodologies, vulnerability assessment, exploitation techniques, and remediation strategies.
@@ -36,7 +40,7 @@ The core objectives of this project were:
 - **Operating Systems**:
   - **Kali Linux**
 
-For detailed reports and findings, please refer to the [Penetration Test Report](Penetration_Test_Report.pdf).
+For detailed reports and findings, please refer to the [Penetration Test Report](https://github.com/tylerbcrawford/rekall-penetration-testing/blob/master/Penetration_Test_Report.pdf), located in the primary repository directory as a PDF file.
 
 ## **Results and Findings**
 

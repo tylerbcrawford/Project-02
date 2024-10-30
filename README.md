@@ -140,18 +140,3 @@ For detailed recommendations, see [Remediation Recommendations](reports/Remediat
 ## **Conclusion and Reflections**
 
 This engagement provided valuable insights into Rekall Corporation's security posture. The exercise reinforced the importance of regular security assessments and proactive remediation efforts. It also enhanced my skills in penetration testing methodologies and tools.
-
-## **Contact Information**
-
-For any questions or discussions:
-
-- **Name**: [Your Name]
-- **Email**: [your.email@example.com]
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
-
-## **License**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
